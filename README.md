@@ -1,2 +1,4 @@
 # medical_check_web
-Author-jabir Hussain
+Author-Mayank Shaw
+Author-Shubham tripathi
+Author-Jabir Hussain
